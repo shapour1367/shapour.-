@@ -213,7 +213,7 @@ function create_config( )
       "google",
       "groupmanager",
       "help",
-      "id",
+      "@Siihapour",
       "images",
       "img_google",
       "location",
